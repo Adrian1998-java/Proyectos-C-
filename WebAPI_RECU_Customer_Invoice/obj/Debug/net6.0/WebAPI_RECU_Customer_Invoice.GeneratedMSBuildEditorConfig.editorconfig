@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAPI_RECU_Customer_Invoice
+build_property.RootNamespace = WebAPI_RECU_Customer_Invoice
+build_property.ProjectDir = C:\Users\scrag\OneDrive\Documentos\VisualStudioCommunity\WebAPI_RECU_Customer_Invoice\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\scrag\OneDrive\Documentos\VisualStudioCommunity\WebAPI_RECU_Customer_Invoice
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Invoices/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Invoices/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Invoices/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Invoices/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Invoices/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52b2ljZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/scrag/OneDrive/Documentos/VisualStudioCommunity/WebAPI_RECU_Customer_Invoice/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

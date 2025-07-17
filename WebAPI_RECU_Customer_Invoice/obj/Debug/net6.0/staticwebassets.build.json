@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OVyPnclys2/R8GNCYsRRc3Wx/DzcJUTUKchdIvQfgKI=",
+  "Source": "WebAPI_RECU_Customer_Invoice",
+  "BasePath": "_content/WebAPI_RECU_Customer_Invoice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
